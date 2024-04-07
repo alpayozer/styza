@@ -1,0 +1,14 @@
+{
+  "name": "styza",
+  "version": "1.0.0",
+  "description": "styza-clone",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass -w scss:css"
+  },
+  "author": "alpayozer",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.74.1"
+  }
+}
